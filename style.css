@@ -1,0 +1,44 @@
+p{
+    color:orange;
+}
+
+button{
+    background-color:blue;
+    color:white;
+
+}
+
+.para{
+    
+    color:palevioletred;
+}
+/*Class selector-call with .
+  Id selector-for heading-call with #
+  element selector
+  universal selector-call with * */
+
+#para-id{
+    color:red;
+}
+*{  
+    background-color:pink ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+/*using CDN(google fonts)*/
+
+
+
+.para-1{ 
+    font-family:'Noto Sans Old Italic';
+    font-size:25px;
+    color: green;
+    font-weight:900;
+    text-align:center;
+    font-style:italic;
+    line-height:50px;
+    text-transform:uppercase;
+    text-decoration:dotted underline ;
+
+}
+

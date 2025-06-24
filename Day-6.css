@@ -1,0 +1,25 @@
+.para1{
+    color:aqua;
+}
+.main-container{
+    background-color: white;
+    color:aliceblue;
+    line-height:30 ;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-image:url(https://ik.imagekit.io/twnusdbcu/Pictures/different_WCMXdtEpF?updatedAt=1750751321360);
+    background-position:1px 1px;
+    opacity:0.5;
+
+}
+
+.container{
+    background-color:black;
+    padding-top:20px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right:10 px;
+    border:2px double red;
+    margin:30 px;
+
+}
